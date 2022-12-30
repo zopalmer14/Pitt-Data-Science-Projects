@@ -4,6 +4,6 @@
 [submodule "STAT1261-Final-Project"]
 	path = STAT1261-Final-Project
 	url = https://github.com/zopalmer14/STAT1261-Final-Project
-[submodule "Pitt-Data-Science-Projects"]
-	path = Pitt-Data-Science-Projects
-	url = https://github.com/zopalmer14/Pitt-Data-Science-Projects
+[submodule "SportsAnalytics"]
+	path = SportsAnalytics
+	url = https://github.com/zopalmer14/SportsAnalytics
