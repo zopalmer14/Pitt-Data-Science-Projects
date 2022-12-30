@@ -1,6 +1,6 @@
 [submodule "cmpinf-final-project"]
 	path = cmpinf-final-project
 	url = git@github.com:zopalmer14/cmpinf-final-project.git
-[submodule "Pitt-Data-Science-Projects"]
-	path = Pitt-Data-Science-Projects
-	url = https://github.com/zopalmer14/Pitt-Data-Science-Projects
+[submodule "STAT1261-Final-Project"]
+	path = STAT1261-Final-Project
+	url = https://github.com/zopalmer14/STAT1261-Final-Project
